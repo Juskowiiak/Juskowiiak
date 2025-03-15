@@ -5,7 +5,7 @@
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
 <a href="https://juskowiakdev.com/">
-<img align="center" title="Portfolio" src="https://img.shields.io/website?label=Juskowiak.dev&style=for-the-badge&url=https://my-domain.netlify.app/">
+<img align="center" title="Portfolio" src="https://img.shields.io/website?label=Juskowiak.dev&style=for-the-badge&url=https://juskowiakdev.com/">
  </a>
 <br><br>
 <h3 style="font-family: monospace">Minhas ferramentas</h3>
