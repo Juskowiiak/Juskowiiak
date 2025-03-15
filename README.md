@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/juskowiak-afonso-36a0b6201/">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
-<a href="https://my-domain.netlify.app/">
+<a href="https://juskowiakdev.com/">
 <img align="center" title="Portfolio" src="https://img.shields.io/website?label=Juskowiak.dev&style=for-the-badge&url=https://my-domain.netlify.app/">
  </a>
 <br><br>
